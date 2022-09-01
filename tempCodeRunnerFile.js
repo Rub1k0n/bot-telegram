@@ -1,0 +1,2 @@
+
+    const { rateBuy, rateSell } = foundCurrency;

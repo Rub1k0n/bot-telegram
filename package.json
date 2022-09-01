@@ -1,0 +1,21 @@
+{
+  "name": "bot-telegram",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js",
+    "dev": "nodemon bot.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "currency-codes": "^2.1.0",
+    "dotenv": "^16.0.2",
+    "telegraf": "^4.9.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
