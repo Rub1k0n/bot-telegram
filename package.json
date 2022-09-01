@@ -4,7 +4,7 @@
   "description": "",
   "main": "bot.js",
   "scripts": {
-    "start": "node bot.js",
+    "start": "cross-env NODE_ENV=production node server",
     "dev": "nodemon bot.js"
   },
   "keywords": [],
